@@ -12,3 +12,4 @@ _Union_: To merge components containing p and q, change all entries whose id equ
 
 - Quick-find defect: Union too expensive.
 - Ex: Takes N^2 array accesses to process sequence of N union commands on N objects.
+- Quadratic algorithms do not scale.
