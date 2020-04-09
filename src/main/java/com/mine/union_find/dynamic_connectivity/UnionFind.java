@@ -1,4 +1,4 @@
-package com.mine.union_find;
+package com.mine.union_find.dynamic_connectivity;
 
 public class UnionFind {
     private int[] id;
